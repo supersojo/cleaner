@@ -1,6 +1,0 @@
-D:\projects\cleaner\Cleaner\bin\Debug\Cleaner.exe.config
-D:\projects\cleaner\Cleaner\bin\Debug\Cleaner.exe
-D:\projects\cleaner\Cleaner\bin\Debug\Cleaner.pdb
-D:\projects\cleaner\Cleaner\obj\Debug\Cleaner.csprojResolveAssemblyReference.cache
-D:\projects\cleaner\Cleaner\obj\Debug\Cleaner.exe
-D:\projects\cleaner\Cleaner\obj\Debug\Cleaner.pdb
